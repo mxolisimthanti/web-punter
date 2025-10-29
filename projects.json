@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Sigweje High School Website",
+    "description": "A responsive gallery and calendar site for showcasing school pride and events.",
+    "image": "images/sigweje.png",
+    "link": "https://maximfortant.github.io/sigweje/"
+  },
+  {
+    "title": "Real-Time School Calendar",
+    "description": "Displays South African holidays and school events with live updates.",
+    "image": "images/calendar.png",
+    "link": "#"
+  },
+  {
+    "title": "Branding for KIJIMA Co-op",
+    "description": "Visual identity and web presence for a local cooperative.",
+    "image": "images/kijima.png",
+    "link": "#"
+  }
+]
